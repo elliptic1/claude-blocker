@@ -4,7 +4,7 @@ Block distracting websites unless [Claude Code](https://claude.ai/claude-code) i
 
 **The premise is simple:** if Claude is working, your distractions come back. When Claude stops, you should be working.
 
-## How It Works
+## How It Works.
 
 ```
 ┌─────────────────┐     hooks      ┌─────────────────┐    websocket    ┌─────────────────┐
